@@ -1,0 +1,5 @@
+sources/app/fishing_diary_game/fd_game_gun.cpp:8:6:void fd_game_gun_setup()	0	static
+sources/app/fishing_diary_game/fd_game_gun.cpp:13:6:void fd_game_gun_left()	0	static
+sources/app/fishing_diary_game/fd_game_gun.cpp:21:6:void fd_game_gun_right()	0	static
+sources/app/fishing_diary_game/fd_game_gun.cpp:30:6:void fd_game_gun_update()	0	static
+sources/app/fishing_diary_game/fd_game_gun.cpp:35:6:void fd_game_gun_handle(ak_msg_t*)	8	static
